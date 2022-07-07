@@ -18,7 +18,7 @@ _Create a GitHub Action and use it in a workflow._
   Do not use quotes on the <details> tag attributes.
 -->
 
-:smile: SMILE :smile:
+:smile: SMILE :smile: test
 
 <!--step0
 
