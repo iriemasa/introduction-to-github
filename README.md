@@ -20,7 +20,7 @@ _Create a GitHub Action and use it in a workflow._
 
 <!--step0-->
 
-:smile: SMILE :smile: SMILE :smile:
+:smile: SMILE :smile:
 
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
